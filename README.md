@@ -1,7 +1,7 @@
 # ♕︎ 𝗧𝗛𝗘 𝗨𝗥𝗔𝗡𝗜𝗨𝗠 ♕︎
 ## ☯︎ Dᴇᴘʟᴏʏ Oɴ Hᴇʀᴏᴋᴜ ☯︎
 
-[![♡︎Dᴇᴘʟᴏʏ♡︎](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/GodNemesis/NemesisXSpam.git)
+[![♡︎Dᴇᴘʟᴏʏ♡︎](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Uranium77/URANIUM-MULTI-SPAMBOT2.git)
 
 -------
 

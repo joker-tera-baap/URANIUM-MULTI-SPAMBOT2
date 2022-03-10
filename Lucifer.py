@@ -833,7 +833,7 @@ async def _(e):
             event = await e.reply(text, parse_mode=None, link_preview=None )
             try:
                 await e.client(functions.channels.JoinChannelRequest(channel=bc))
-                await event.edit("𝐆𝐀𝐀𝐍𝐃 𝐌𝐈𝐋 𝐆𝐘𝐀𝐀 𝐁𝐇𝐀𝐈𝐈 💋💦")
+                await event.edit("𝐒𝐔𝐂𝐂𝐄𝐒𝐒𝐅𝐔𝐋𝐋𝐘 𝐋𝐄𝐀𝐕𝐄𝐃 ✅")
             except Exception as e:
                 await event.edit(str(e))   
         else:
@@ -877,7 +877,7 @@ async def _(e):
             event = await e.reply(text, parse_mode=None, link_preview=None )
             try:
                 await e.client(ImportChatInviteRequest(bc))
-                await event.edit("sᴜᴄᴄᴇssғᴜʟʟʏ ᴊᴏɪɴᴇᴅ ᴘʀɪᴠᴀᴛᴇ ɢʀᴏᴜᴘ 🚩")
+                await event.edit("𝐒𝐔𝐂𝐂𝐄𝐒𝐒𝐅𝐔𝐋𝐋𝐘 𝐉𝐎𝐈𝐍𝐄𝐃 𝐏𝐑𝐈𝐕𝐀𝐓𝐄 𝐆𝐑𝐎𝐔𝐏 🚩")
             except Exception as e:
                 await event.edit(str(e))   
         else:
@@ -917,11 +917,11 @@ async def _(e):
         if len(e.text) == 7:
             bc = yukki[0]
             bc = int(bc)
-            text = "sᴜᴄᴄᴇssғᴜʟʟʏ ʟᴇғᴛ ғʀᴏᴍ ɢʀᴏᴜᴘ 🚩"
+            text = "𝐒𝐔𝐂𝐂𝐄𝐒𝐒𝐅𝐔𝐋𝐋𝐘 𝐋𝐄𝐅𝐓 🚩"
             event = await e.reply(text, parse_mode=None, link_preview=None )
             try:
                 await event.client(LeaveChannelRequest(bc))
-                await event.edit("sᴜᴄᴄᴇssғᴜʟʟʏ ʟᴇғᴛ ғʀᴏᴍ ɢʀᴏᴜᴘ 🚩")
+                await event.edit("𝐒𝐔𝐂𝐂𝐄𝐒𝐒𝐅𝐔𝐋𝐋𝐘 𝐋𝐄𝐅𝐓 🚩")
             except Exception as e:
                 await event.edit(str(e))   
         else:
@@ -1373,7 +1373,7 @@ async def ping(e):
         event = await e.reply(text, parse_mode=None, link_preview=None)
         end = datetime.now()
         ms = (end - start).microseconds / 1000
-        await event.edit(f"🔱 🇵 🇮 🇳 🇬 🔱!\n`{ms}` 𝗺𝘀\n ࿈⚔️𝗨𝗥𝗔𝗡𝗜𝗨𝗠 ✘ 𝗦𝗣𝗔𝗠𝗕𝗢𝗧⚔️࿈")
+        await event.edit(f"🔱 🇵 🇮 🇳 🇬 🔱!\n`{ms}` 𝗺𝘀\n ࿈𝗨𝗥𝗔𝗡𝗜𝗨𝗠 ✘ 𝗦𝗣𝗔𝗠𝗕𝗢𝗧࿈")
 
      
         
@@ -1495,10 +1495,10 @@ CONGRATS🥳🥳🥳 YOUR FASTEST, SMOOTHEST AND POWERFUL LEGENDSPAMBOT DEPLOYED
 
 print(text)
 print("")
-print(" 𝐘𝐎𝐔𝐑 𝐔𝐑𝐀𝐍𝐈𝐔𝐌 𝐒𝐏𝐀𝐌𝐁𝐎𝐓 𝐃𝐄𝐏𝐋𝐎𝐘 !!")
+print(" 𝐘𝐎𝐔𝐑 𝐔𝐑𝐀𝐍𝐈𝐔𝐌 𝐒𝐏𝐀𝐌𝐁𝐎𝐓 𝐃𝐄𝐏𝐋𝐎𝐘 ✅ !!")
 if len(sys.argv) not in (1, 3, 4):
     try:
-        idk.disconnect()
+        idk.disconnect() 
     except Exception as e:
         pass
     try:

